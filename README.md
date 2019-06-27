@@ -1,3 +1,3 @@
 # Deep-Learning-Specialization
 
-Exercises from Andrew Ng's Coursera specialization
+These are exercises from Andrew Ng's Coursera specialization, covering various algorithms and the technical workings of neural networks.
